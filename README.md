@@ -13,6 +13,7 @@
 
 - 🔭 I’m currently working on **full-stack projects using MERN and React Native**
 - 🌱 I’m learning **React Native & Typescript**
+- 🌍 Check out my portfolio: [nirajan-mahato.com.np](https://nirajan-mahato.com.np)
 
 ---
 
