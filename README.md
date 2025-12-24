@@ -39,7 +39,7 @@
 
 ---
 
-## 🧩 Tech Stack (Short & Sweet)
+## 🧩 Tech Stack
 
 <p align="left">
   <!-- Core -->
@@ -62,12 +62,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nirajanmahato&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajanmahato&hide_border=true&theme=radical" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=NirajanMahato&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=NirajanMahato&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajanmahato&layout=compact&hide_border=true&theme=radical" />
+  <img width="45%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanMahato&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -76,15 +80,15 @@
 
 <p align="center">
   <a href="https://github.com/NirajanMahato">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nirajan-mahato-898b90285/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/nirajan__mahato/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" style="filter: invert(1);" />
   </a>
 </p>
 
