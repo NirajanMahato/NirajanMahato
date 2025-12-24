@@ -1,33 +1,21 @@
-<!-- Hero -->
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I’m Nirajan Mahato 👋</h1>
-<h3 align="center">
-  Full-Stack Developer · Next.js & React Native
-</h3>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="100%" />
 
-<p align="center">
-  I build clean, scalable web & mobile applications with a strong focus on performance,
-  UX, and real-world problem solving.
-</p>
+# Hi, I'm Nirajan Mahato 👋
 
-<p align="center">
-  <a href="https://nirajan-mahato.com.np" target="_blank">
-    🌐 Portfolio
-  </a>
-  ·
-  <a href="https://www.linkedin.com/in/nirajan-mahato-898b90285/" target="_blank">
-    💼 LinkedIn
-  </a>
-</p>
+### Full-Stack Developer · Next.js & React Native
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirajanmahato&label=Profile%20Views&color=ff7a45&style=flat" />
-</p>
+<p>I build clean, scalable web & mobile applications with a strong focus on performance,<br/>UX, and real-world problem solving.</p>
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ff7a45?style=for-the-badge)](https://nirajan-mahato.com.np)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/nirajan-mahato-898b90285/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nirajanmahato&label=Profile%20Views&color=ff7a45&style=flat)
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
@@ -35,65 +23,51 @@
 - ⚡ Primary stack: **Next.js, React Native, TypeScript**
 - 🧠 Interested in **full-stack systems, UI motion, and clean architecture**
 - 🌱 Currently improving **React Native performance & app architecture**
+- 🚀 Deploying production web apps on VPS using **Nginx, Docker & PM2**
 - 🌍 Portfolio: **https://nirajan-mahato.com.np**
 
----
+<br/>
 
 ## 🧩 Tech Stack
 
-<p align="left">
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
+<div align="center">
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
 
-  <!-- Styling -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" />
-</p>
+### Backend & Mobile
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+<img src="https://reactnative.dev/img/header_logo.svg" width="48" style="vertical-align: middle;" />
 
----
+</div>
+
+<br/>
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=NirajanMahato&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  
-  <img width="48%" 
        src="https://github-readme-streak-stats.herokuapp.com?user=NirajanMahato&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="45%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanMahato&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
+<br/>
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/NirajanMahato">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" style="filter: invert(1);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nirajan-mahato-898b90285/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" style="filter: invert(1);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nirajan__mahato/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" style="filter: invert(1);" />
-  </a>
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NirajanMahato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-mahato-898b90285/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nirajan__mahato/)
 
-<p align="center">
-  <i>“First make it work. Then make it right. Then make it fast.”</i>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+### *"First make it work. Then make it right. Then make it fast."*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+</div>
