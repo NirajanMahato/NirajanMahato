@@ -85,7 +85,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NirajanMahato)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-mahato-898b90285/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nirajan__mahato/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7A45?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nirajan-mahato.com.np)
@@ -100,7 +99,6 @@
 
 **"First make it work. Then make it right. Then make it fast."**
 
-*Building one commit at a time* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A45&height=100&section=footer" width="100%"/>
 
